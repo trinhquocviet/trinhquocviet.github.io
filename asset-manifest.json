@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://viettrinh.xyz/static/css/main.b100e6da.chunk.css",
-    "main.js": "https://viettrinh.xyz/static/js/main.ebb63cf1.chunk.js",
-    "main.js.map": "https://viettrinh.xyz/static/js/main.ebb63cf1.chunk.js.map",
+    "main.css": "https://viettrinh.xyz/static/css/main.e9e19e1c.chunk.css",
+    "main.js": "https://viettrinh.xyz/static/js/main.a9e816a5.chunk.js",
+    "main.js.map": "https://viettrinh.xyz/static/js/main.a9e816a5.chunk.js.map",
     "runtime-main.js": "https://viettrinh.xyz/static/js/runtime-main.492adeb2.js",
     "runtime-main.js.map": "https://viettrinh.xyz/static/js/runtime-main.492adeb2.js.map",
-    "static/js/2.8ba3e8a0.chunk.js": "https://viettrinh.xyz/static/js/2.8ba3e8a0.chunk.js",
-    "static/js/2.8ba3e8a0.chunk.js.map": "https://viettrinh.xyz/static/js/2.8ba3e8a0.chunk.js.map",
+    "static/js/2.3a35831b.chunk.js": "https://viettrinh.xyz/static/js/2.3a35831b.chunk.js",
+    "static/js/2.3a35831b.chunk.js.map": "https://viettrinh.xyz/static/js/2.3a35831b.chunk.js.map",
     "index.html": "https://viettrinh.xyz/index.html",
-    "precache-manifest.44b171770d65543c0714e46392f264d7.js": "https://viettrinh.xyz/precache-manifest.44b171770d65543c0714e46392f264d7.js",
+    "precache-manifest.0ab1a90c4064caef828634d35fc6063b.js": "https://viettrinh.xyz/precache-manifest.0ab1a90c4064caef828634d35fc6063b.js",
     "service-worker.js": "https://viettrinh.xyz/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "https://viettrinh.xyz/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "https://viettrinh.xyz/static/media/logo.25bf045c.svg"
+    "static/css/main.e9e19e1c.chunk.css.map": "https://viettrinh.xyz/static/css/main.e9e19e1c.chunk.css.map",
+    "static/media/Avatar.module.scss": "https://viettrinh.xyz/static/media/avatar.c3570b1c.png"
   }
 }

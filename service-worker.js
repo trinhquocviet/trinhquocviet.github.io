@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://viettrinh.xyz/precache-manifest.44b171770d65543c0714e46392f264d7.js"
+  "https://viettrinh.xyz/precache-manifest.0ab1a90c4064caef828634d35fc6063b.js"
 );
 
 self.addEventListener('message', (event) => {
